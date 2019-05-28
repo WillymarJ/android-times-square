@@ -1,6 +1,21 @@
 Change Log
 ==========
 
+Version 1.7.10 *(2018-07-23)*
+----------------------------
+
+ * New language: Ukranian
+
+Version 1.7.9 *(2018-04-26)*
+----------------------------
+
+ * New: custom cells (using a DayViewAdapter) can now have taller contents than the default 1x1 cell.
+
+Version 1.7.7 *(2017-12-08)*
+----------------------------
+
+ * Improved: `tsquare_displayAlwaysDigitNumbers` now also applies to the year in Burmese/Arabic
+
 Version 1.7.6 *(2017-12-04)*
 ----------------------------
 
